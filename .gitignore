@@ -6,5 +6,5 @@
 .build
 .includepath
 .project
-MooX-ProtectedAttributes-*
+MooX-PrivateAttributes-*
 xt/perltidy.rc
